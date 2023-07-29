@@ -55,7 +55,7 @@ afterEvaluate {
 
                 groupId = "com.github.adrirao96"
                 artifactId = "ui"
-                version = "1.0"
+                version = "1.0.2"
             }
         }
     }
