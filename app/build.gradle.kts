@@ -61,7 +61,7 @@ dependencies {
     implementation(libs.ui.tooling.preview)
     implementation(libs.material3)
 
-    implementation(project(":ui"))
+    implementation("com.github.adrirao96:AndroidLibrary:1.0.0")
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.test.ext.junit)
